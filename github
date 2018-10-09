@@ -1,0 +1,7 @@
+#include<iostram.h>
+#include<conio.h>
+void main()
+{
+cout<<"welcome"<<endl;
+getch();
+}
