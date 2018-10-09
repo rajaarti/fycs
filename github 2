@@ -1,0 +1,8 @@
+#include<iostrem.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+cout<<"we4lcome to github!!"<<endl;
+getch();
+}
